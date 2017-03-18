@@ -29,3 +29,5 @@ To play is simple.
 - [Ascend](https://gist.github.com/lubien/17af35e99f944b2df9290c7e4d2485e4).
 - [Count Negative Numbers In a String](https://gist.github.com/yesroh/560fe5e74638292199c7c3cd05716be8).
 - [Matrix Multiplication](https://github.com/Webschool-io/js-desafios/tree/master/matrix-multiply).
+- [Basic Operators](https://gist.github.com/Woodsphreaker/6188de4a5f22bb004826107f5724514a).
+
