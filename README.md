@@ -30,4 +30,4 @@ To play is simple.
 - [Count Negative Numbers In a String](https://gist.github.com/yesroh/560fe5e74638292199c7c3cd05716be8).
 - [Matrix Multiplication](https://github.com/Webschool-io/js-desafios/tree/master/matrix-multiply).
 - [Basic Operators](https://gist.github.com/Woodsphreaker/6188de4a5f22bb004826107f5724514a).
-
+- [Matrix Diagonals Sum](https://gist.github.com/lubien/86db4f35e5ad473a287cd24da7b819fc).
