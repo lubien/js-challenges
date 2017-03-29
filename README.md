@@ -32,3 +32,4 @@ To play is simple.
 - [Basic Operators](https://gist.github.com/Woodsphreaker/6188de4a5f22bb004826107f5724514a).
 - [Matrix Diagonals Sum](https://gist.github.com/lubien/86db4f35e5ad473a287cd24da7b819fc).
 - [Transform Strings](https://gist.github.com/rafaelassumpcao/7f1170400ba487af79efd041b928c805).
+- [Find out date from 2 digits number](https://gist.github.com/beatorizu/e9c411d0258afc94080c8d8b5c88f5f2).
