@@ -33,3 +33,4 @@ To play is simple.
 - [Matrix Diagonals Sum](https://gist.github.com/lubien/86db4f35e5ad473a287cd24da7b819fc).
 - [Transform Strings](https://gist.github.com/rafaelassumpcao/7f1170400ba487af79efd041b928c805).
 - [Find out date from 2 digits number](https://gist.github.com/beatorizu/e9c411d0258afc94080c8d8b5c88f5f2).
+- [Umbrella](https://gist.github.com/lubien/1f09a53a4b5607377166c58a7eb49ae0).
